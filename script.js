@@ -12,9 +12,4 @@ function toggleMode() {
         img.setAttribute('src', './assets/images/avatar.png')
         img.setAttribute('alt', '"Foto de Eduardo sorrindo timidamente, usando óculos de grau, camisa preta e fundo branco"')
     }
-
-
-
-
-
 }
