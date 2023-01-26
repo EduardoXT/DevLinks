@@ -36,6 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 O DevLinks é um agregador de links para usar como cartão de visitas online, e foi promovido pela RocketSeat em um curso de 5h, onde pude colocar em prática todos os meus conhecimentos nas tecnologias a cima.
+E você pode ver-lo clicando aqui: [DevLinksEdu](https://discord.gg/rocketseat)
 
 <br>
 
@@ -51,4 +52,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat 👋 [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
